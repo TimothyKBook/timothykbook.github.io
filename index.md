@@ -4,4 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-asdfsadf
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <span class="post-meta" style = "font-size:8pt">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </h2>
+
+    </li>
+  {% endfor %}
+</ul>
