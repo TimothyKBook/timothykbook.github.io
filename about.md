@@ -14,5 +14,19 @@ State University's Department of Statistics, receiving my MS in statistics.
 Before Ohio State, I received my Bachelor's in mathematics and statistics from
 Penn State.
 <br><br>
-If you'd like to get in touch with me for any reason, I can best be reached
-via email (see footer).  Also feel free to check out my GitHub!
+I'm a math geek *and* a data geek.  I love bringing theory into application, and
+wrapping it up with a neat visual.
+
+### Language Skills
+R, Python, Matlab, SQL, Stata, SAS
+
+### Typesetting/Reporting
+LaTeX, Markdown, RMarkdown, Jupyter, HTML/CSS
+
+### Technical Specialties
+Git, RShiny, the "tidyverse", ggplot2
+
+### Analytical Specialties
+(Generalized) linear model theory, statistical machine learning, regularization
+techniques, robust methods, kernel methods, tree methods, smoothing methods,
+data visualization, sampling techniques
