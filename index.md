@@ -4,3 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<style>
+h1 {
+  color: #2D4671;
+  font-family: trebuchet ms;
+  font-weight: bold;
+  font-style: italic;
+}
+</style>
+<h1>Blog Posts:</h1>

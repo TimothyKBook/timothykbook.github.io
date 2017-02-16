@@ -3,6 +3,14 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+<style>
+h3 {
+  color: #2D4671;
+  font-family: trebuchet ms;
+  font-weight: bold;
+  font-style: italic;
+}
+</style>
 
 <center>
 <img src='../images/tim.png' width='250'>
@@ -18,10 +26,10 @@ I'm a math geek *and* a data geek.  I love bringing theory into application, and
 wrapping it up with a neat visual.
 
 ### Language Skills
-R, Python, Matlab, SQL, Stata, SAS
+R, Python, SQL, Stata, SAS
 
 ### Typesetting/Reporting
-LaTeX, Markdown, RMarkdown, Jupyter, HTML/CSS
+LaTeX, Markdown, RMarkdown, Jupyter, HTML/CSS/Sass
 
 ### Technical Specialties
 Git, RShiny, the "tidyverse", ggplot2
