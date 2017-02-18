@@ -9,6 +9,11 @@
   position: relative;
 }
 
+.page-link, .post-link {
+  font-family: $header-font-family;
+  font-weight: bold;
+}
+
 .page-heading {
   font-size: 48px;
   font-weight: bold;

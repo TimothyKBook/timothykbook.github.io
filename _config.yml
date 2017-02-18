@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tim's Data Blog
-email: timothykbook@gmail.com
+email: TimothyKBook@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about math, statistics, data science, and R coding.  Updated sporadically,
   to keep you in suspense.
