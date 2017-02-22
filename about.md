@@ -26,7 +26,7 @@ I'm a math geek *and* a data geek.  I love bringing theory into application, and
 wrapping it up with a neat visual.
 
 ### Language Skills
-R, Python, SQL, Stata, SAS
+R, Python, Stata, SQL, SAS
 
 ### Typesetting/Reporting
 LaTeX, Markdown, RMarkdown, Jupyter, HTML/CSS/Sass

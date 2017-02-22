@@ -39,7 +39,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
@@ -83,7 +82,9 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  color: #2D4671;
+  font-weight: bold;
+  font-style: italic;
 }
 
 
@@ -93,13 +94,10 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  font-family: $header-font-family;
+  color: $theme_color;
 
   &:hover {
-    color: $text-color;
     text-decoration: underline;
   }
 }
