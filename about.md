@@ -22,8 +22,8 @@ R, Python, Stata, SQL, SAS
 ### Typesetting/Reporting
 LaTeX, Markdown, RMarkdown, Jupyter, HTML/CSS/Sass
 
-### Technical Specialties
-Git, RShiny, the "tidyverse", ggplot2
+### Misc. Technical Specialties
+Git, AWS, Bash scripting, RShiny, the "tidyverse", ggplot2
 
 ### Analytical Specialties
 (Generalized) linear model theory, statistical machine learning, regularization
