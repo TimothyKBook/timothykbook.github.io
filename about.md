@@ -3,15 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<style>
-h3 {
-  color: #2D4671;
-  font-family: trebuchet ms;
-  font-weight: bold;
-  font-style: italic;
-}
-</style>
-
 <center>
 <img src='../images/tim.png' width='250'>
 </center>
