@@ -8,5 +8,5 @@ Last week, I was fortunate enough to attend the inaugural DC DataCon here in Was
 In short, the conference was a wonderful and educational experience.  Can't wait for next year!
 
 <center>
-![](https://www.summitllc.us/hs-fs/hubfs/file1.jpeg?t=1508859845764&width=320&name=file1.jpeg)
+<img src="<img src="https://www.summitllc.us/hs-fs/hubfs/file1.jpeg?t=1508859845764&width=320&name=file1.jpeg">
 </center>
