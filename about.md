@@ -29,3 +29,9 @@ Git, AWS, Bash scripting, RShiny, the "tidyverse", ggplot2
 (Generalized) linear model theory, statistical machine learning, regularization
 techniques, robust methods, kernel methods, tree methods, smoothing methods,
 data visualization, sampling techniques
+
+### What am I working on now?
+Right now, I'm trying to learn as much as I can about deep learning.  I am currently making my way through Andrew Ng's DeepLearning.ai Coursera specialization.  Oh, and I'm also reading *The Way of Kings*, by Brandon Sanderson.
+
+### What's next?
+Next, I'd really like to learn all there is to know about NLP.
