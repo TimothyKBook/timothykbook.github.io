@@ -21,7 +21,7 @@ LaTeX, (R)Markdown, Jupyter
 
 ### Misc. Technical Specialties
 AWS, Git, Bash scripting, the Python data science stack (numpy, pandas, scipy,
-sci-kit learn, nltk), RShiny, the "tidyverse", ggplot2
+sci-kit learn, nltk), Keras, RShiny, the "tidyverse", ggplot2
 
 ### Analytical Specialties
 (Generalized) linear model theory, statistical machine learning, regularization
@@ -29,7 +29,4 @@ techniques, robust methods, kernel methods, tree methods, smoothing methods,
 data visualization, sampling techniques, natural language processing (NLP)
 
 ### What am I working on now?
-Right now, I'm working on completing a paper for a presentation at this year's AAPOR conference. The topic of our paper is _Unsupervised Natural Language Processing for Survey Data_. The conference is May 16 through 19 in Denver, Colorado.
-
-### What's next?
-Next, I'm going to take a deeper dive into TensorFlow and Keras.
+Right now, I'm taking a very deep dive into learning as much deep learning as possible. I'm working my way through François Chollet's _Deep Learning with Python_, which is an excellent resource. I plan to focus on learning everything I can about sequence data, specifically NLP and time series analysis using RNNs.
