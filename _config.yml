@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello!  This is my blog/virtual resume.  Minimal theme for minimal content.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  timothykbook
+github_username:  timbook
 twitter_username:  nottimbook
 
 # Build settings
