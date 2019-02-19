@@ -29,4 +29,4 @@ techniques, robust methods, kernel methods, tree methods, smoothing methods,
 data visualization, sampling techniques, natural language processing (NLP)
 
 ### What am I working on now?
-Right now, I'm taking a very deep dive into learning as much deep learning as possible. I'm working my way through François Chollet's _Deep Learning with Python_, which is an excellent resource. I plan to focus on learning everything I can about sequence data, specifically NLP and time series analysis using RNNs.
+Right now, I'm studying the C/C++ languages with the goal of using them to speed up the functionality of R (via `Rccp`) and Python (via `Cython`).
