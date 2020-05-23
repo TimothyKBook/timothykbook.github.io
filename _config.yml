@@ -16,7 +16,7 @@
 title: Tim Book
 email: timothykbook@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello!  This is my blog/virtual resume.  Minimal theme for minimal content.
+  Hello! This is my blog/virtual resume.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  timbook
